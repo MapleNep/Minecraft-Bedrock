@@ -1,1 +1,1 @@
-# Minecraft Bedrock
+# Minecraft Dedicated Server
